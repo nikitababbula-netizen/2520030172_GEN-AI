@@ -1,0 +1,7 @@
+﻿Prompt,Temperature,Rank,Token ID,Candidate Token,Raw Logit,Scaled Logit,Probability (%)
+how is tablespoon measured?,1.0,1,198,'\n',-103.0247,-103.0247,36.77
+how is tablespoon measured?,1.0,2,632,' It',-105.5345,-105.5345,2.99
+how is tablespoon measured?,1.0,3,1374,' How',-105.6746,-105.6746,2.6
+how is tablespoon measured?,1.0,4,383,' The',-105.6844,-105.6844,2.57
+how is tablespoon measured?,1.0,5,314,' I',-105.7916,-105.7916,2.31
+how is tablespoon measured?,1.0,6,628,'\n\n',-105.8499,-105.8499,2.18
